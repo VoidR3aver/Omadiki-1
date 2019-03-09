@@ -1,5 +1,6 @@
 ﻿body {
 	background: url("Eikones/Forza1.jpg") no-repeat;
 	background-size: cover;
+        box-sizing: border-box;
+        text-align:center;
 }
--
